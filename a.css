@@ -1,0 +1,10 @@
+.class1{
+    font-size: 100px;
+    color:red;
+    border:10px solid yellow ;
+    border-width:10px;
+}
+.class1 :hover{
+    background-color: yellow;
+    color: green;
+}
